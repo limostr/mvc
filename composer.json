@@ -1,0 +1,14 @@
+{
+    "name": "limostr/mvc",
+    "description": "my mvc concept",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "limostr",
+            "email": "oussama.limam@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
